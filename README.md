@@ -8,4 +8,8 @@
 <p align="center">Controle de versão:</p> <br> <br>
 <p>* GIT</p>
 <P>* GITHUB</P> <br> <br>
-<H1 align="center">Imagem do projeto</H1>
+<H1 align="center">Imagem do projeto</H1> <br> <br>
+<img src="Jogoparte1.jpg">
+<img src="Jogoparte2.jpg">
+
+
